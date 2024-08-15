@@ -1,4 +1,4 @@
-# AC-GAN: Integrating Attractor Constraints into Generative Adversarial Networks for Dynamic PPG Synthesis
+# AC-GAN: Incorporating Chaotic Attractor Characteristics into Generative Adversarial Networks for Synthesizing PPG signals
 
 ## Overview
 
