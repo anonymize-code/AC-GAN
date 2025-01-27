@@ -1,8 +1,8 @@
-# AC-GAN: Incorporating Chaotic Attractor Characteristics into Generative Adversarial Networks for Synthesizing PPG signals
+# AC-GAN: Advancing Stress Detection with Chaotic Attractor Informed Synthesis of PPG Signal
 
 ## Overview
 
-We introduce AC-GAN, a novel generative adversarial network for PPG synthesis with data-driven attractor constraints.  AC-GAN comprises two distinct components: a data-driven attractor extraction network and the GAN with attractor constraints. We first designed and pre-trained an attractor extraction network to represent the attractor characteristics of PPG signals. Then we incorporate this component into the GAN framework and develop specialized loss functions.
+We introduce AC-GAN, a novel generative adversarial network for PPG synthesis with data-driven attractor constraints.  AC-GAN comprises two distinct components: a data-driven attractor extraction network and the GAN with attractor constraints. We first designed a recurrent neural network (RNN), which can continuously update its hidden states, to extract the chaotic motion characteristics of real PPG signals in a purely data-driven mode. Subsequently, the pre-trained attractor extraction network is used as a prior in the optimization process of a GAN to create PPG signals that conform to the underlying dynamics of physiological systems.
 
 Our basic implementation of AC-GAN is provided in this repository.
 ![alt](structure.png)
