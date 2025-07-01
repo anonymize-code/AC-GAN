@@ -10,5 +10,5 @@ This folder contains supplementary materials for the paper "Advancing Stress Det
   - `tsne_analysis_ablation.png`: Visualization of feature distribution in ablation experiments.
 
 - **/tables**: Contains additional tables that could not be included in the main paper due to space limitations.
-  - `table_similarity_UBFC_CLAS.csv`: Quantitative assessment results of similarity on UBFC and CLAS datasets in comparative experiment.
-  - `table_ablation_study_UBFC_CLAS.csv`: Quantitative assessment results of similarity on UBFC and CLAS datasets in ablation study.
+  - `table_similarity_UBFC_CLAS.png`: Quantitative assessment results of similarity on UBFC and CLAS datasets in comparative experiment.
+  - `table_ablation_study_UBFC_CLAS.png`: Quantitative assessment results of similarity on UBFC and CLAS datasets in ablation study.
