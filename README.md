@@ -48,3 +48,21 @@ For more information, please see requirement.txt
 ``trainer.py`` For stress recognition of the signal, used in signal usability studies, the classifier employs the initially configured SVM classifier, and the experimental setup follows the TSTR guidelines.
 
 ``temp_plot.py``  It is used for significance testing, employing the Friedman significance test with p=0.05.
+
+## Citation
+
+[Link to Paper](https://ieeexplore.ieee.org/abstract/document/11356883)
+
+If you use this code or find our work helpful in your research, please consider citing our paper:
+
+**BibTeX:**
+```bibtex
+@inproceedings{hu2025advancing,
+  title={Advancing Stress Detection with Chaotic Attractor Informed Synthesis of PPG Signal},
+  author={Hu, Kaiwen and Zhang, Sipo and Zhang, Xiaowei and Zhao, Qiqi and Gao, Guangyuan and Wang, Tianzhi and Shen, Jian and Hu, Bin},
+  booktitle={2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={6178--6185},
+  year={2025},
+  organization={IEEE}
+}
+```
